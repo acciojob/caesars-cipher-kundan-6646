@@ -21,6 +21,6 @@ function rot13(encodedStr){
 
 // You can test your code by running the above function and printing it to console by pressing the run button at the top. To run it with input 36, uncomment the following line
 
-alert(rot13("THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG"));
+// alert(rot13("THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG"));
 
 module.exports = rot13;
